@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "by.bgpb.mbanking",
-    "sha256_cert_fingerprints":
-    ["50:C3:83:CE:C1:C6:5E:C7:7E:E3:EB:AF:87:38:3D:F4:6E:34:B7:22:57:CB:53:C2:C7:D2:FB:EF:5C:4D:32:EB"]
-  }
-}]
